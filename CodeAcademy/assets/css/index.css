@@ -1,0 +1,15 @@
+.title p {
+  font-family: 'Poppins', sans-serif;
+}
+
+.item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
+/*# sourceMappingURL=index.css.map */
